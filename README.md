@@ -23,7 +23,7 @@ Para explorar o guia dos personagens, basta navegar pelo menu de navegação ou 
 
 ### Monkey D. Luffy
 
-Monkey D. Luffy é o protagonista da série e o Capitão dos Piratas do Chapéu de Palha. Ele possui a habilidade de comer a Fruta do Diabo Gomu Gomu, que o tornou um Homem de Borracha.
+Monkey D. Luffy é o protagonista da série e o Capitão dos Piratas do Chapéu de Palha. Ele possuiu sua habilidade após comer a Fruta do Diabo Gomu Gomu, que o tornou um Homem de Borracha.
 
 ### Roronoa Zoro
 
